@@ -81,7 +81,7 @@ export const families = writable([
       },
       {
         name: "Алия Денисовна",
-        dob: "2020-05-28",
+        dob: "2020-05-26",
         gender: 'f'
       },
     ],
